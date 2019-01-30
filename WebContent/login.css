@@ -1,0 +1,54 @@
+#container{
+	margin: auto;
+	border: 3px ;
+	width: 400px;
+	text-align: center ;
+	border-radius:0px;
+	background: #D8EDF2;
+	margin-top: 80px;
+	height: 300px;
+}
+#email,#password{
+	
+	height:20px;
+    width:300px;
+    border-radius: 10px; 
+    padding: 10px;
+    
+}
+h2
+{
+    color:red; 
+	font-family: sans-serif;
+	font-style: oblique;
+	padding-top: 10px
+}
+#loginButton
+{
+	height:50px;
+    width:320px;
+    margin-top: 19px;
+    color: white;
+    background: #ff3300;
+    font-size: 20px;
+    font-style: oblique;
+    outline: none;
+}
+#spanid
+{
+	font-size: 20px;
+	color:red;
+	font-family: sans-serif;
+	font-style: oblique; 
+}
+a:LINK {
+	color: red;
+}
+body
+{
+  background-image: url("image.png");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
